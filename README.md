@@ -1,3 +1,8 @@
+MOVED TO: https://github.com/ppanyukov/azure-sdk-for-go-issues
+
+
+------
+
 # AzureDuplicateResponder
 
 This is a repro for an issue which calls response inspector twice in Azure SDK for Go.
